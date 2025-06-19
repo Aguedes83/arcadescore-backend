@@ -1,0 +1,52 @@
+## Ignore arquivos compilados
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+## Ignore configurações do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Logs
+*.log
+
+## Ignorar VS Code
+.vscode/
+
+## Ignorar arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+
+## Ignorar pacotes
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## Testes
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+
+## Ignore arquivos do Rider
+.idea/
+*.sln.iml
+
+## Arquivos da pasta .vs do Visual Studio
+.vs/
+
+## Secrets e arquivos locais
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## Sistema operacional
+.DS_Store
+Thumbs.db
