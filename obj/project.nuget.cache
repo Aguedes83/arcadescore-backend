@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9k8pX4Y5Okc=",
+  "success": true,
+  "projectFilePath": "E:\\PROJETOS\\.NET\\arcade-score-api\\ArcadeScore.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
